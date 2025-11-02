@@ -14,8 +14,7 @@
 ---
 
 ### 🧭 About Me
-- 🎓 Graduated from **Sir Syed University of Engineering & Technology**  
-- 💼 ~3.5 years experience as a **Python Backend Developer**  
+- 💼 ~4+ years experience as a **Python Developer**  
 - 🌱 Currently building **scalable APIs, background jobs, and automation systems**  
 - 🔭 Tech Focus: **Django | FastAPI | Celery | PostgreSQL | Redis | Docker**  
 - 💬 Fun Fact: I love writing clean, maintainable code and solving real-world problems  
@@ -26,18 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,docker,git,linux,nginx,celery" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏡 [Rental Platform](https://github.com/mohammadkhizar/rental-platform) | OLX-style rental system with JWT Auth & image uploads | Django, PostgreSQL, Docker |
-| 📅 [Cycle Tracker](https://github.com/mohammadkhizar/cycle-tracker) | Predictive analytics for cycle tracking | Django, Celery, PostgreSQL |
-| 🔐 [JWT Auth System](https://github.com/mohammadkhizar/jwt-auth-system) | Custom access & refresh token authentication | Django, Python, Redis |
-
-*(Replace project links if necessary with your actual repos)*
 
 ---
 
