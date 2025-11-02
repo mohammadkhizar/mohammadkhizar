@@ -33,9 +33,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏡 [Rental Platform](https://github.com/YOUR_GITHUB_USERNAME/rental-platform) | OLX-style rental system with JWT Auth & image uploads | Django, PostgreSQL, Docker |
-| 📅 [Cycle Tracker](https://github.com/YOUR_GITHUB_USERNAME/cycle-tracker) | Predictive analytics for cycle tracking | Django, Celery, PostgreSQL |
-| 🔐 [JWT Auth System](https://github.com/YOUR_GITHUB_USERNAME/jwt-auth-system) | Custom access & refresh token authentication | Django, Python, Redis |
+| 🏡 [Rental Platform](https://github.com/mohammadkhizar/rental-platform) | OLX-style rental system with JWT Auth & image uploads | Django, PostgreSQL, Docker |
+| 📅 [Cycle Tracker](https://github.com/mohammadkhizar/cycle-tracker) | Predictive analytics for cycle tracking | Django, Celery, PostgreSQL |
+| 🔐 [JWT Auth System](https://github.com/mohammadkhizar/jwt-auth-system) | Custom access & refresh token authentication | Django, Python, Redis |
 
 *(Replace project links if necessary with your actual repos)*
 
@@ -43,15 +43,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mohammadkhizar&show_icons=true&theme=radical&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhizar&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophy Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkhizar&theme=radical&row=1&column=5"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/muhammad-khizar-baig-518193202/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mohammadkhizar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
