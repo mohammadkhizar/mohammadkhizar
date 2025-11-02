@@ -4,7 +4,7 @@
   Hi 👋, I'm Muhammad Khizar
 </h1>
 <h3 align="center">
-  Python Developer | Backend Engineer | Problem Solver 💡
+  Python Developer | AI & Backend Engineer | Problem Solver 💡
 </h3>
 
 <p align="center">
