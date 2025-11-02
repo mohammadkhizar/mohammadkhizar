@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkhizar&show_icons=true&theme=radical" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhizar&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -59,6 +59,7 @@
 
 ---
 
-> ⚙️ **Tip:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the stats section.  
-> Pin your top 3–5 repos to your profile for quick visibility.
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadkhizar)
+![GitHub followers](https://img.shields.io/github/followers/mohammadkhizar?style=social)
+
 
