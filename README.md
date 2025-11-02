@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F7AB0A&width=600&lines=Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F7AB0A&width=600&lines=Python+%7C+AI+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Automation" />
 </p>
 
 ---
