@@ -30,15 +30,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mohammadkhizar&show_icons=true&theme=radical&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhizar&layout=compact&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohammadkhizar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhizar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophy Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkhizar&theme=radical&row=1&column=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkhizar&theme=radical&row=1&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
