@@ -30,8 +30,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohammadkhizar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkhizar&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=mohammadkhizar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohammadkhizar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
