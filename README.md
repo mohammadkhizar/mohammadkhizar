@@ -38,8 +38,9 @@
 
 ### 🏆 GitHub Trophy Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkhizar&theme=radical&row=1&column=5" alt="GitHub Trophies" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
