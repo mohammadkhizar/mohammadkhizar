@@ -14,7 +14,7 @@
 ---
 
 ### 🧭 About Me
-- 💼 ~4+ years experience as a **Python Developer**  
+- 💼 ~4.5+ years experience as a **Python Developer**  
 - 🌱 Currently building **scalable APIs, background jobs, and automation systems**  
 - 🔭 Tech Focus: **Django | FastAPI | Celery | PostgreSQL | Redis | Docker**  
 - 💬 Fun Fact: I love writing clean, maintainable code and solving real-world problems  
@@ -38,7 +38,7 @@
 
 ### 🏆 GitHub Trophy Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkhizar&theme=radical&hide_border=true" />
 </p>
 
 
