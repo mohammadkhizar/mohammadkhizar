@@ -41,6 +41,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkhizar&theme=radical&hide_border=true" />
 </p>
 
+### 🏆 GitHub Trophy Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkhizar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+
+### 🏆 GitHub Trophy Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadkhizar" />
+</p>
 
 ---
 
