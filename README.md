@@ -36,10 +36,7 @@
 
 ---
 
-### 🏆 GitHub Trophy Badges
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkhizar&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
